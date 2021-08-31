@@ -1,3 +1,4 @@
+// 2. SolveMeFirst : HackerRank Problem https://www.hackerrank.com/challenges/solve-me-first/problem
 import java.util.*
 
 fun solveMeFirst(a: Int, b: Int): Int {
