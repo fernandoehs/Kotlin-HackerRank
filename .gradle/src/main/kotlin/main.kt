@@ -1,5 +1,5 @@
-// 1. Hola Kotlin
+// 1. Hola SoloKotlin
 
 fun main(args: Array<String>) {
-    println("Hola Kotlin")
+    println("Hola SoloKotlin")
 }
