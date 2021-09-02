@@ -1,5 +1,5 @@
 // 1. Hola SoloKotlin
 
-fun main(args: Array<String>) {
+fun main( ) {
     println("Hola SoloKotlin")
 }
