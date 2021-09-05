@@ -2,7 +2,7 @@
 Solutions to the practice exercises, coding challenges, and other problems on Hackerrank!
 <p align="center">
     <a href="https://www.hackerrank.com/RodneyShag">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://sharp.services.greenhouse.io/production/integrations/hackerrank-color-resized-75nmq02hm.png?auto=format&fit=max&lossless=true&q=90&w=430&s=9545d538a825e5ba6ab1bf11ce9b1a24c39d7bf8560c09b65455914542050991">
     </a>
     <br>solutions to HackerRank problems
 </p>
