@@ -16,4 +16,4 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |  3  | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)                                    |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/DiagonalDifference.kt)          |
 |  4  | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)                                                      |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/PlusMinus.kt)                   |
 |  5  | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)                                           |  20   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/LeftRotation.kt)                |
-
+|  6  | [2D Array DS ](https://www.hackerrank.com/challenges/2d-array/problem)                                           |  15   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/2DArrayDS.kt)                |
