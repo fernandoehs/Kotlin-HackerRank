@@ -19,7 +19,7 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |  6  | [2D Array DS ](https://www.hackerrank.com/challenges/2d-array/problem)                                           |  15   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/2DArrayDS.kt)                |
 |  7  | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/Staircase.kt)                |
 |  8  | [SimpleArraySum](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/SimpleArraySum.kt)                |
-|  8  | [BirthdayCakeCandles](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/BirthdayCakeCandles.kt)                |
+|  9  | [BirthdayCakeCandles](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/BirthdayCakeCandles.kt)                |
 
 
 
