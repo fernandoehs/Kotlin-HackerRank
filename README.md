@@ -34,3 +34,18 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 | Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [The Descent](https://www.codingame.com/training/easy/the-descent)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/TheDescent.kt)                |
+
+
+
+<p align="center">
+    <a href="#">
+        <img height=65 src="https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg">
+    </a>
+    <br>solutions to LeetCode challenges
+</p>
+
+
+| Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  0  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/PascalTriangle.kt)                |
+
