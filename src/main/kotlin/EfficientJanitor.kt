@@ -1,23 +1,9 @@
 //14. EfficientJanitor            Problem HackerRank
 
 
-import java.io.*
-import java.math.*
-import java.security.*
-import java.text.*
-import java.util.*
-import java.util.concurrent.*
-import java.util.function.*
-import java.util.regex.*
-import java.util.stream.*
 import kotlin.collections.*
-import kotlin.comparisons.*
 import kotlin.io.*
-import kotlin.jvm.*
-import kotlin.jvm.functions.*
-import kotlin.jvm.internal.*
 import kotlin.ranges.*
-import kotlin.sequences.*
 import kotlin.text.*
 
 fun efficientJanitor(weight: Array<Float>): Int {
@@ -47,9 +33,12 @@ fun efficientJanitor(weight: Array<Float>): Int {
 }
 
 fun main(args: Array<String>) {
-    val weightCount = readLine()!!.trim().toInt()
+    var weightCount = readLine()!!.trim().toInt()
 
-    val weight = Array<Float>(weightCount, { 0f })
+ val weight = Array<Float>(weightCount, { 0f })
+   // var weight = floatArrayOf(0f)
+  //  weightCount = weight.size
+
     for (i in 0 until weightCount) {
         val weightItem = readLine()!!.trim().toFloat()
         weight[i] = weightItem
