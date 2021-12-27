@@ -20,7 +20,7 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |  7  | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/Staircase.kt)                |
 |  8  | [SimpleArraySum](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/SimpleArraySum.kt)                |
 |  9  | [BirthdayCakeCandles](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/BirthdayCakeCandles.kt)                |
-
+|  10  | [EfficientJanitor](https://www.hackerrank.com/challenges/efficientjanitor/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/EfficientJanitor.kt)                |
 
 
 <p align="center">
@@ -49,4 +49,4 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  0  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/PascalTriangle.kt)                |
 |  1  | [FizzBuzz](https://leetcode.com/problems/fizzbuzz/)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/FizzBuzz.kt)                |
-
+|  2  | [ContainerMaxWater](https://leetcode.com/problems/container-with-most-water)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/ContainerMaxWater.kt)                |
