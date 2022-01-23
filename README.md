@@ -21,6 +21,7 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |  8  | [SimpleArraySum](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/SimpleArraySum.kt)                |
 |  9  | [BirthdayCakeCandles](https://www.hackerrank.com/challenges/simplearraysum/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/BirthdayCakeCandles.kt)                |
 |  10  | [EfficientJanitor](https://www.hackerrank.com/challenges/efficientjanitor/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/EfficientJanitor.kt)                |
+|  11  | [RotateArray](https://www.hackerrank.com/challenges/efficientjanitor/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/RotateArray.kt)                |
 
 
 <p align="center">
