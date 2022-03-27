@@ -24,18 +24,6 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |  11  | [RotateArray](https://www.hackerrank.com/challenges/efficientjanitor/problem)                                           |  10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/RotateArray.kt)                |
 
 
-<p align="center">
-    <a href="#">
-        <img height=45 src="https://logonoid.com/images/codingame-logo.png">
-    </a>
-    <br>solutions to CodinGame challenges
-</p>
-
-
-| Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
-|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [The Descent](https://www.codingame.com/training/easy/the-descent)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/TheDescent.kt)                |
-
 
 
 <p align="center">
@@ -51,3 +39,20 @@ Solutions to the practice exercises, coding challenges, and other problems on Ha
 |  0  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/PascalTriangle.kt)                |
 |  1  | [FizzBuzz](https://leetcode.com/problems/fizzbuzz/)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/FizzBuzz.kt)                |
 |  2  | [ContainerMaxWater](https://leetcode.com/problems/container-with-most-water)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/ContainerMaxWater.kt)                |
+|  3  | [FindTheDifference](https://leetcode.com/problems/find-the-difference/)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/FindTheDifference.kt)                |
+
+
+
+<p align="center">
+    <a href="#">
+        <img height=45 src="https://logonoid.com/images/codingame-logo.png">
+    </a>
+    <br>solutions to CodinGame challenges
+</p>
+
+
+| Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  0  | [The Descent](https://www.codingame.com/training/easy/the-descent)                                              |   10   | [Solution.kt](https://github.com/herreraweb/Kotlin-HackerRank/blob/main/src/main/kotlin/TheDescent.kt)                |
+
+
